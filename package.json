@@ -1,0 +1,19 @@
+{
+  "name": "countries-data",
+  "version": "0.0.1",
+  "description": "Countries data (general, languages, geo, anthems, etc) ",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dormd/countries-data.git"
+  },
+  "author": "Dor Moshe <dormoshed@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dormd/countries-data/issues"
+  },
+  "homepage": "https://github.com/dormd/countries-data#readme"
+}
