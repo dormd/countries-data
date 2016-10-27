@@ -1,2 +1,2 @@
 # countries-data
-in developing
+in development
