@@ -10,6 +10,7 @@ Used by [ng2-pipe](https://github.com/dormd/ng2-pipe) and [ng2-countries](https:
 * [Languages Data](#languages-data)
 * [Anthems Data](#anthems-data)
 * [How to use with Angular 2](#how-to-use-in-angular-2)
+* [Initial Data Source](#initial-data-source)
 
 ## Installation
 ```
@@ -68,5 +69,5 @@ export class MyService {
 }
 ```
 
-### Base Data Source
-The base json data is part of [rinvex country](https://github.com/rinvex/country) repository.
+### Initial Data Source
+The initial json data is part of [rinvex country](https://github.com/rinvex/country) repository.
