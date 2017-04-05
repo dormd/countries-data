@@ -1,12 +1,14 @@
-interface IStringToString {
+export interface IStringToString {
     [key: string]: string
 }
 
-interface IStringToOfficialCommon {
-    [key: string]: {
-        official: string,
-        common: string
-    }
+export interface IOfficialCommon {
+    official: string,
+    common: string
+}
+
+export interface IStringToOfficialCommon {
+    [key: string]: IOfficialCommon
 }
 
 export interface ICountry {
@@ -15,7 +17,7 @@ export interface ICountry {
         common: string,
         official: string,
         native: IStringToOfficialCommon
-    },    
+    },
     demonym: string,
     capital: string,
     iso_3166_1_alpha2: string,
