@@ -1,5 +1,5 @@
 # countries-data
-The project contain json data in a typescript files.
+The project contains json data in typescript files.
 The data is about countries, languages codes and anthems.
 
 Used by [ng2-pipe](https://github.com/dormd/ng2-pipe) and [ng2-countries](https://github.com/dormd/ng2-countries).
